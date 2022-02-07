@@ -10,7 +10,7 @@ Show what the library does as concisely as possible, developers should be able t
 
 ## Motivation
 
-A short description of the motivation behind the creation and maintenance of the project. This should explain **why** the project exists.
+Taking addendace for online classes are difficult but blackboatd creates a daily login and logout times for each student. Therefore, I was asked in the end of the semester to complile the daily logs and create a final attendace sheet. 
 
 ## Installation
 
